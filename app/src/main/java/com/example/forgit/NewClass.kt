@@ -5,4 +5,5 @@ class NewClass {
     val y = 2
     val z = 3
     val s2 = "session2"
+    val s2b = 2
 }
