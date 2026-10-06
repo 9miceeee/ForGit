@@ -34,7 +34,7 @@ class MainActivity : ComponentActivity() {
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
         text = "Hello, Git!",
-        modifier = modifier
+        modifier = modifier.padding(4.dp)
     )
 }
 
